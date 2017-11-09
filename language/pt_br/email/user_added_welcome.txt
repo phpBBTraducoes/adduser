@@ -1,0 +1,19 @@
+Subject: Você foi adicionado ao "{SITENAME}"
+
+{WELCOME_MSG}
+
+Por favor, guarde este e-mail em seus registros. Suas informações de conta são as seguintes:
+
+----------------------------
+Nome de usuário: {USERNAME}
+
+Acesso: {U_BOARD}
+
+Senha: {PASSWORD}
+----------------------------
+
+Sua senha foi armazenado com segurança em nosso banco de dados e não podem ser recuperadas. No caso em que ele é esquecido, você será capaz de redefini-la usando o endereço de email associado à sua conta.
+
+Nós recomendamos fortemente que você mude sua senha uma vez que você entrar no fórum.
+
+{EMAIL_SIG}
